@@ -1,4 +1,4 @@
-<img class="emoji" alt="ru" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1fa.png"> Russia • Novosibirsk <br>
+:ru: Russia • Novosibirsk <br>
 👨‍💻 CTO @sibtruckscan 🚛 <br> 
 🥋 #Taekwondo ITF МФТ 1dan @olymptaekwondo 🥊 <br>
 

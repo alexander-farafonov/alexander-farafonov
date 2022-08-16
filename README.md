@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🇷🇺 Russia • Novosibirsk
-👨‍💻 CTO @sibtruckscan ⛟
-🥋 #Taekwondo ITF МФТ 1dan @olymptaekwondo 🥊
+🇷🇺 Russia • Novosibirsk <br>
+👨‍💻 CTO @sibtruckscan ⛟ <br>
+🥋 #Taekwondo ITF МФТ 1dan @olymptaekwondo 🥊 <br>
 
 <!--
 **alexander-farafonov/alexander-farafonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

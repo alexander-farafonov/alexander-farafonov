@@ -1,6 +1,6 @@
 :ru: Russia • Novosibirsk <br>
 👨‍💻 CTO @sibtruckscan 🚛 <br> 
-🥋 #Taekwondo ITF МФТ 1dan @olymptaekwondo 🥊 <br>
+🥋 #Taekwondo ITF MFT 1dan @olymptaekwondo 🥊 <br>
 
 
 <!--
